@@ -35,13 +35,8 @@ The goal is to convert raw transaction data into meaningful business insights th
 
 ## Key KPIs
 
-- Total Revenue
-- Gross Profit
-- Total Orders
-- Units Sold
-- Average Order Value
-- Average Delivery Days
-- Profit %
+<img width="1600" height="1029" alt="KPI Summary" src="https://github.com/user-attachments/assets/a8533465-17d6-4216-8b1b-b01001afbdfb" />
+
 
 ## Analysis Performed
 
@@ -54,6 +49,9 @@ Compared salespeople using:
 - Units Sold
 - Average Order Value
 - Gross Profit
+- Data Visualization
+  <img width="1600" height="898" alt="Salesperson Performance" src="https://github.com/user-attachments/assets/d7353a23-204d-4016-a8b8-0135075b3e03" />
+
 
 A key analytical point was that revenue alone should not be used to label a salesperson as the overall best performer.
 
@@ -109,6 +107,11 @@ Analyzed:
 Very Slow deliveries had the highest order volume and revenue.
 
 This finding requires further investigation before concluding whether delivery delays are beneficial or harmful to the business.
+
+## Dashboard
+
+<img width="1600" height="905" alt="Dahsboard" src="https://github.com/user-attachments/assets/4da7c45e-5be2-4a87-be4b-ac7c624f5ea3" />
+
 
 ## Key Business Insights
 
